@@ -12,7 +12,7 @@ namespace ConsoleApp1
         public SqlConnection con = new SqlConnection(@"Data Source = Balanday-PC\SQLEXPRESS; Initialize Catalog =nissin; Integrated Security = true");
         static void Main(string[] args)
         {
-
+            int a = 5;
             
 
         }
